@@ -1,3 +1,7 @@
+#
+# Анализ дубликатов UID в XML файлах DICOM Carl Zeiss
+#
+
 from xml.dom import minidom
 import os
 import collections
